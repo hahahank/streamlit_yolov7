@@ -1,0 +1,2 @@
+pip install streamlit-authenticator
+pip install -U streamlit-webrtc
