@@ -9,8 +9,11 @@
 - pip install streamlit-authenticator
 - pip install -U streamlit-webrtc
 <br>
-# Run service 
+
+# Run service
 - sh sh run_streamlit.sh
 - check http://[IP]:50000
 <br>
-![demo](https://user-images.githubusercontent.com/4043666/230533258-65549318-3538-4b82-bf86-7bc0bde34fdc.JPG)
+
+
+![image](https://user-images.githubusercontent.com/4043666/230533258-65549318-3538-4b82-bf86-7bc0bde34fdc.JPG)
