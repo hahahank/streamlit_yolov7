@@ -1,18 +1,18 @@
-###  Demo to run yolov7 on streamlit
+# Demo to run yolov7 on streamlit
 
-# Download yolo pre-train model
+## Download yolo pre-train model
  cd weights/ <br>
  wget https://github.com/WongKinYiu/yolov7/releases/download/v0.1/yolov7.pt <br>
  cd ..<br>
  <br>
-# Install packages
+## Install packages
 - pip install streamlit-authenticator
 - pip install -U streamlit-webrtc
 <br>
 
-# Run service
-- sh sh run_streamlit.sh
-- check http://[IP]:50000
+## Run service
+- sh run_streamlit.sh
+- check on web : http://[IP]:5000
 <br>
 
 
